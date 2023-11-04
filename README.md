@@ -13,15 +13,14 @@
 
 ##
 
-<div style="flexwrap: nowrap";>
-  <a href="https://github.com/madumendes">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<table>
+    <tr>
+      <td><img height="210" src=https://github-readme-stats.vercel.app/api?username=madumendes&show_icons=true&theme=date_night></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</td>
+    </tr>
+  </table>
 </div>
-
-<p>
-
-  
-</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madumendes&bg_color=3c2a2a&color=cc9289&line=cc9289&point=b99284&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
