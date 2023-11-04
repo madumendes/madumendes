@@ -3,6 +3,7 @@
 - ⌨ Estudante de ADS. 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,11 +11,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
 
-<div style="display: inline-block">
+<div style="justify-content: space-between">
   <a href="https://github.com/madumendes">
-  <img align="left" height="210" src=https://github-readme-stats.vercel.app/api?username=madumendes&show_icons=true&theme=date_night>
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img height="210" src=https://github-readme-stats.vercel.app/api?username=madumendes&show_icons=true&theme=date_night>
+  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 <p>
