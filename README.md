@@ -13,7 +13,7 @@
 
 ##
 
-<div style="justify-content: space-between">
+<div style="flexwrap: nowrap">
   <a href="https://github.com/madumendes">
   <img height="210" src=https://github-readme-stats.vercel.app/api?username=madumendes&show_icons=true&theme=date_night>
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
